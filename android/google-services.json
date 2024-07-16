@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "720087977369",
+    "project_id": "chatstranger-d4427",
+    "storage_bucket": "chatstranger-d4427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:720087977369:android:ccb527ac5f1d28015f1708",
+        "android_client_info": {
+          "package_name": "com.chatstranger"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLJCZI-DMzBWpCI1qYmvXHGeBYBWchLUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
